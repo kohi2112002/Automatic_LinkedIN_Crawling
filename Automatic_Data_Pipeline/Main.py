@@ -15,39 +15,39 @@ ex_name = 'khoi-do-3a2a1820a'
 # Get profile of all connection
 all_conn_profile = Crawling.get_multiple_info([ex_name])
 
-# # Extract personal information
-# per_info_dict = extract_personal_info(all_conn_profile)
+# Extract personal information
+per_info_dict = DataExtract.extract_personal_info(all_conn_profile)
 
-# # Convert personal information to DF to CSV
-# per_info_df = pd.DataFrame(per_info_dict)
-# per_info_df.to_csv('D:/Project/Linkedin Data Crawling/Output_CSV/personal_info.csv')
+# Convert personal information to DF to CSV
+per_info_df = pd.DataFrame(per_info_dict)
+per_info_df.to_csv('./Output_CSV/personal_info.csv')
 
 # Extract personal skill
 per_skill_dict = DataExtract.extract_personal_skill(all_conn_profile)
 
 # Convert personal skill to DF to CSV
 per_skill_df = pd.DataFrame(per_skill_dict)
-per_skill_df.to_csv('D:/Project/Linkedin Data Crawling/Output_CSV/personal_skills.csv')
+per_skill_df.to_csv('./Output_CSV/personal_skills.csv')
 
-# # Extract personal job
-# per_job_dict = DataExtract.extract_personal_job(all_conn_profile)
+# Extract personal job
+per_job_dict = DataExtract.extract_personal_job(all_conn_profile)
 
-# # Convert personal job to DF to CSV
-# per_job_df = pd.DataFrame(per_job_dict)
-# per_job_df.to_csv('D:/Project/Linkedin Data Crawling/Output_CSV/personal_jobs.csv')
+# Convert personal job to DF to CSV
+per_job_df = pd.DataFrame(per_job_dict)
+per_job_df.to_csv('./Output_CSV/personal_jobs.csv')
 
-# # Extract personal edu
-# per_edu_dict = DataExtract.extract_personal_edu(all_conn_profile)
+# Extract personal edu
+per_edu_dict = DataExtract.extract_personal_edu(all_conn_profile)
 
-# # Convert personal job to DF to CSV
-# per_edu_df = pd.DataFrame(per_edu_dict)
-# per_edu_df.to_csv('D:/Project/Linkedin Data Crawling/Output_CSV/personal_edus.csv')
+# Convert personal job to DF to CSV
+per_edu_df = pd.DataFrame(per_edu_dict)
+per_edu_df.to_csv('./Output_CSV/personal_edus.csv')
 
-# # Extract personal edu
-# per_interest_dict = DataExtract.extract_personal_interests(all_conn_profile)
+# Extract personal edu
+per_interest_dict = DataExtract.extract_personal_interests(all_conn_profile)
 
-# # Convert personal job to DF to CSV
-# per_interest_df = pd.DataFrame(per_interest_dict)
-# per_interest_df.to_csv('D:/Project/Linkedin Data Crawling/Output_CSV/personal_interests.csv')
+# Convert personal job to DF to CSV
+per_interest_df = pd.DataFrame(per_interest_dict)
+per_interest_df.to_csv('./Output_CSV/personal_interests.csv')
 
 
