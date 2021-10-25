@@ -11,7 +11,7 @@ def myConnect_Dict_initialize():
     return info
 
 def skill_Dict_initialize():
-    info = {'name' : [], "skills" : []}
+    info = {'name' : [], "skills" : [], "endorsement" : []}
     return info
 
 def job_Dict_initialize():
@@ -52,11 +52,10 @@ def extract_personal_skill(info_dict_lst):
     for x in info_dict_lst:
         personal_info = x['personal_info']
         personal_skill = x['skills']
-        skill_lst = []
         for i in personal_skill:
-            skill_lst.append(str(i['name']))
-        info['name'].append(str(personal_info['name']))
-        info['skills'].append(" ".join(skill_lst))
+            info['name'].append(str(personal_info['name']))
+            info['skills'].append(str(i['name']))
+            info['endorsement'].append(str(i['endorsements']))
     return info      
 
 def extract_personal_job(info_dict_lst):
@@ -64,38 +63,24 @@ def extract_personal_job(info_dict_lst):
     for x in info_dict_lst:
         job_lst = x['experiences']['jobs']
         name = x['personal_info']['name']
-        job_name_lst = []
-        time_lst = []
         for i in job_lst:
-            job_name_lst.append(str(i['title']))
-            time_lst.append(str(i['date_range']))
-        info['name'].append(name)
-        info['job name'].append(" ".join(job_name_lst))
-        info['time range'].append(" ".join(time_lst))
-    return info
+            info['name'].append(str(name))
+            info['job name'].append(str(i['title']))
+            info['time range'].append(str(i['date_range']))
+        return info
 
 def extract_personal_edu(info_dict_lst):
     info = Edu_Dict_inintialize()
     for x in info_dict_lst:
         edu_lst = x['experiences']['education']
-        name = x['personal_info']['name']
-        edu_name_lst = []
-        degree_lst = []
-        field_study = []
-        time_range = []
-        grade = []
+        name = x['personal_info']['name']        
         for i in edu_lst:
-            edu_name_lst.append(str(i['name']))
-            degree_lst.append(str(i['degree']))
-            field_study.append(str(i['field_of_study']))
-            time_range.append(str(i['date_range']))
-            grade.append(str(i['grades']))
-        info['name'].append(name)
-        info['edu name'].append(' '.join(edu_name_lst))
-        info['degree'].append(' '.join(degree_lst))
-        info['field study'].append(' '.join(field_study))
-        info['time range'].append(' '.join(time_range))
-        info['grade'].append(' '.join(grade))
+            info['name'].append(str(name))
+            info['edu name'].append(str(i['name']))
+            info['degree'].append(str(i['degree']))
+            info['field study'].append(str(i['field_of_study']))
+            info['time range'].append(str(i['date_range']))
+            info['grade'].append(str(i['grades']))            
     return info
 
 def extract_personal_interests(info_dict_lst):
