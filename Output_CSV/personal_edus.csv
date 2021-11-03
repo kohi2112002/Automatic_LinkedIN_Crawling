@@ -1,3 +1,85 @@
 ,name,edu name,degree,field study,time range,grade
-0,Khoi Do,ĐH Bách Khoa Hà Nội,Bachelor's degree,"Electrical, Electronic and Communications Engineering Technology/Technician",2020 – 2024,None
-1,Khoi Do,Udacity,NanoDegree Program,Data Architecture,2021 – 2021,None
+0,Maximillian Sugrue,University of Chicago,None,None,2018 – 2022,None
+1,Maximillian Sugrue,Phillips Exeter Academy,None,None,2016 – 2018,None
+2,Maximillian Sugrue,Institut Le Rosey,None,None,2008 – 2016,None
+3,Frank Albanese,Y Combinator,W21 Batch,None,2021,None
+4,Frank Albanese,Oakland University,Bachelor’s Degree,Management Information Systems,2013 – 2015,None
+5,Frank Albanese,University of Michigan-Dearborn,None,Information Technology Project Management,2010 – 2013,None
+6,Federico Moscato,Y Combinator,Other,W21,2021 – 2021,None
+7,Federico Moscato,Ningbo University,Logistics Management,"Logistics, Materials, and Supply Chain Management",2017 – 2021,Sophomore
+8,Federico Moscato,Instituto Cumbres de Caracas,High School Diploma,High School/Secondary Diplomas and Certificates,2008 – 2017,None
+9,Skyler Aspegren,Wheaton College,Bachelor of Arts (B.A.),Business Economics. Minors in Math and Computer Science,None,None
+10,Eesha Sharma,Stanford University,Postdoctoral Fellow,Genetics,2019 – 2022,None
+11,Eesha Sharma,University of Toronto,Doctor of Philosophy - PhD,Molecular Genetics,2013 – 2019,None
+12,Eesha Sharma,University of Toronto,Bachelor of Science - BS,Molecular Biology,2008 – 2012,None
+13,Grant La Count,University of San Francisco,Bachelor of Science (BS),Finance,2013 – 2016,None
+14,Quốc Anh Lê,University of Information Technology,Bachelor's degree,Computer Science,2013 – 2017,7.6 GPA
+15,Aditya Anand,Guru Gobind Singh Indraprastha University,Bachelor of Technology (B.Tech.),Computer Science,None,None
+16,Aditya Anand,Bharati Vidyapeeth,Bachelor's degree,Computer Science,None,None
+17,Erik Davis,Harvard Extension School,Certificate,Digital Marketing Strategy,2019 – 2019,None
+18,Venkata Vijay Ventrapragada,California Institute of Technology,Master of Science in Electrical Engineering,Computer Systems and Telecommunications,2013 – 2014,3.99
+19,Venkata Vijay Ventrapragada,"Indian Institute of Technology, Madras",Bachelor of Technology (B.Tech.),"Electrical, Electronics and Communications Engineering",2008 – 2012,None
+20,Piero Linares,Universidad de Lima,Bachelor of Engineering (B.E.),Industrial Engineering,2011 – 2016,Top 10%
+21,Piero Linares,Y Combinator,Startup School,None,2020 – 2020,None
+22,Piero Linares,Y Combinator,Summer 2021 Batch,None,2021 – 2021,None
+23,Miren Thakkar,La Trobe University,Master of Cybersecurity,Cyber security,2019 – 2020,None
+24,Miren Thakkar,SYMBIOSIS INTERNATIONAL UNIVERSITY,MBA ( IT Business Management),Information Security,2016 – 2018,None
+25,Miren Thakkar,The Maharaja Sayajirao University of Baroda,Bachelor of Computer Application(BCA),Information Technology,2013 – 2016,None
+26,David Iya,Y Combinator,Winter 20 Batch,None,None,None
+27,David Iya,University of North Florida,None,Computer and Information Sciences and Support Services,2012 – 2017,None
+28,David Iya,Paxon School/Advanced Studies,None,None,2007 – 2011,None
+29,David Lin,University of Michigan Medical School,Doctor of Philosophy (Ph.D.),Microbiology and Immunology,2014 – 2018,None
+30,David Lin,California State University-Fullerton,Master's degree,Molecular Biology,2011 – 2014,None
+31,David Lin,"University of California, Davis",B.S.,"Biotechnology, Microbiology",2005 – 2009,None
+32,Nat Wollny,No University,None,None,2016 – 2019,None
+33,Nat Wollny,Westminster School,None,None,2014 – 2016,None
+34,Nat Wollny,Harris Westminster,None,None,2014 – 2015,None
+35,Trung Tran,"Vietnam National University, Hanoi",Master of Business Administration - MBA,Business,2012 – 2015,None
+36,Steve Purves,Y Combinator,Founder YC W21,Entrepreneurship/Entrepreneurial Studies,2021 – 2021,None
+37,Steve Purves,University of Newcastle-upon-Tyne,BEng(hons),Electrical and Electronic Engineering,1993 – 1997,First Class
+38,Nick Chai,Stamford College,Bachelor's degree,"Business, Management, Marketing, and Related Support Services",2000 – 2004,None
+39,Pritesh Kumar,"Indian Institute of Technology, Delhi",Bachelor of Technology - BTech,Computer Science and Engineering,2009 – 2013,None
+40,Ignacio Loyola,Pontificia Universidad Católica de Chile,Bachelor of Engineering - BE,Engineering,2018 – 2022,None
+41,Ignacio Loyola,Colegio Verbo Divino de Los Ángeles,None,None,None,None
+42,Andrés Kemeny,Universidad Adolfo Ibáñez,Engineer's degree,Computer Software Engineering,2020 – 2025,None
+43,Menno Gravemaker,Delft University of Technology,None,Electrical Engineering,2010 – 2016,None
+44,Menno Gravemaker,Hogeschool INHOLLAND Alkmaar,propedeuse,Electrical Engineering,2009 – 2010,cum laude
+45,Menno Gravemaker,Rudolf Steinerschool,HAVO NT,None,1998 – 2009,None
+46,Carolina Andrea Gutierrez B.,Universidad de Buenos Aires,Licenciatura en Administración,"Administración y gestión de empresas, general",2003 – 2007,Mención: Técnico en Administración de Empresas.
+47,Carolina Andrea Gutierrez B.,Instituto Profesional AIEP,Diseño Gráfico,Diseño gráfico,2016 – 2018,Mención: Técnico en Diseño Gráfico.
+48,Carolina Andrea Gutierrez B.,Universidad de Buenos Aires,Licenciada en Ciencias Biológicas,Ecología,2002 – 2007,None
+49,Carolina Andrea Gutierrez B.,Universidad de Buenos Aires,Inglés,Enseñanza de inglés o francés como lengua extranjera,2005 – 2006,None
+50,Carolina Andrea Gutierrez B.,The Foodie Studies,Curso de Creación y escritura de blogs gastronómicos,Online,2020 – 2020,None
+51,Carolina Andrea Gutierrez B.,Nõun Eventos y Capacitación Ejecutiva,Periodismo Gastronómico,Online,2020 – 2020,None
+52,Carolina Andrea Gutierrez B.,Universidad Complutense de Madrid,Periodismo gastronómico y nutricional,None,2020 – 2020,None
+53,Carlos Tejeda,UANL,Doctor of Medicine (MD),Telemedicine,1989 – 2012,None
+54,Carlos Tejeda,Y Combinator,Current Summer 2021 batch,None,2021,None
+55,Kiem Duong (Kevin),Open University Malaysia,Master of Business Administration - MBA,Entrepreneurial and Small Business Operations,2011 – 2013,None
+56,Kiem Duong (Kevin),Ho Chi Minh University of Technology,Bachelor of Engineering - BE,Computer Software Engineering,2003 – 2008,None
+57,Trung Le Xuan,National Economics University (NEU) Vietnam,Bachelor's degree,Accounting and Auditing,2009 – 2013,None
+58,Trung Le Xuan,ACCA,None,None,None,None
+59,Vaibhav Saxena,Plaksha University,Fellowship,"Artificial Intelligence, Machine Learning, Entrepreneurship",None,None
+60,Vaibhav Saxena,Academany - The Academy of (almost) Anything,Fab Academy Diploma,Digital fabrication,None,None
+61,Vaibhav Saxena,Birla Institute of Technology,Bachelor of Architecture - BArch,Architecture,None,None
+62,Pieter Yoshua,Apple Developer Academy | Indonesia,Software Engineer,None,None,None
+63,Paul Gross,Yale University,Bachelor's degree,Statistics and Data Science (with distinction),None,None
+64,Paul Gross,Y Combinator,None,W21 Batch,None,None
+65,Freddy Fernandez,Y Combinator,YC Summer 21,None,2021 – 2021,None
+66,Freddy Fernandez,ESCEM,BA,International Business,2009 – 2010,None
+67,Freddy Fernandez,Universidad del Norte,BA,International Business and Finance,2005 – 2010,None
+68,Freddy Fernandez,Colegio san jose,None,None,2001 – 2005,None
+69,Pedro Pregueiro,Y Combinator,None,None,2021,None
+70,Pedro Pregueiro,Universidade do Minho,BS,Computer Science,2005 – 2009,None
+71,Loi Doan,Asia e University,Bachelor's degree,Computer Software Engineering,2011 – 2012,None
+72,Krishna Kiran Kasturi,International Institute of Information Technology,Master of Technology (M.Tech.),BI,2004 – 2006,None
+73,Krishna Kiran Kasturi,Jawaharlal Nehru Technological University,Bachelor of Technology (B.Tech.),Computer Science,2000 – 2004,None
+74,Fahad Kamraan,"University of California, Berkeley",Bachelor of Technology - BTech,None,2019,None
+75,Fahad Kamraan,"SRM University, AP",Bachelor of Technology - BTech,Computer Science and Engineering,2017 – 2021,None
+76,Fahad Kamraan,Montessori High School,High School,None,2010 – 2015,9.8/10
+77,Agam Narula,"University of California, Berkeley",Master of Science - MS,Computer Science,2018 – 2020,None
+78,Agam Narula,"Indian Institute of Technology, Delhi",Bachelor of Technology,Electrical Engineering,2012 – 2016,None
+79,Luis Alonso Ubillas,Y Combinator,YC S21,None,None,None
+80,Luis Alonso Ubillas,University of Michigan - Stephen M. Ross School of Business,Master of Business Administration (M.B.A.),None,2014 – 2016,None
+81,Luis Alonso Ubillas,Universidad del Pacífico (PE),Bachelor's Degree,Business Administration & Accounting,2008,None
+82,Tomás Lázaro González,FCEA - Facultad de Ciencias Económicas y de Administración,Licenciatura en Administración,None,2018 – 2023,None
+83,Tomás Lázaro González,Instituto Alfredo Vázquez Acevedo,Bachillerato,Economía,2017 – 2017,None

@@ -1,19 +1,19 @@
 import DataExtract
 import Crawling
 import pandas as pd
-ex_name = 'khoi-do-3a2a1820a'
+# ex_name = 'khoi-do-3a2a1820a'
 
-# # Get all connections
-# my_conn = get_my_connection()
+# Get all connections
+my_conn = Crawling.get_my_connection()
 
-# # Extract to name and id dictionary
-# personal_connection_dict = extract_personal_connection(my_conn)
+# Extract to name and id dictionary
+personal_connection_dict = DataExtract.extract_personal_connection(my_conn)
 
-# # Get id list 
-# id_list = extract_personal_id(personal_connection_dict)
+# Get id list 
+id_list = DataExtract.extract_personal_id(personal_connection_dict)
 
 # Get profile of all connection
-all_conn_profile = Crawling.get_multiple_info([ex_name])
+all_conn_profile = Crawling.get_multiple_info(id_list)
 
 # Extract personal information
 per_info_dict = DataExtract.extract_personal_info(all_conn_profile)

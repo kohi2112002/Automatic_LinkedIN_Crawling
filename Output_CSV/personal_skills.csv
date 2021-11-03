@@ -1,20 +1,659 @@
 ,name,skills,endorsement
-0,Khoi Do,Data Analysis,2
-1,Khoi Do,Data Science,1
-2,Khoi Do,Data Mining,1
-3,Khoi Do,Data Visualization,1
-4,Khoi Do,Data Structures,1
-5,Khoi Do,Strategy,1
-6,Khoi Do,Data Architecture,1
-7,Khoi Do,Python (Programming Language),1
-8,Khoi Do,SQL,1
-9,Khoi Do,MongoDB,1
-10,Khoi Do,Engineering,0
-11,Khoi Do,Analytics,0
-12,Khoi Do,Information Technology,0
-13,Khoi Do,Deep Learning,0
-14,Khoi Do,Machine Learning,0
-15,Khoi Do,Interpersonal Skills,0
-16,Khoi Do,Communication,0
-17,Khoi Do,Leadership,0
-18,Khoi Do,Data Analytics,0
+0,Desmond Muranda,Creative Problem Solving,1
+1,Desmond Muranda,Strategic Visionary,1
+2,Desmond Muranda,Business Networking,0
+3,Desmond Muranda,Analytical Skills,0
+4,Desmond Muranda,Sales,0
+5,Desmond Muranda,Business Strategy,0
+6,Desmond Muranda,Creative Marketing,0
+7,Desmond Muranda,Project Management,0
+8,Desmond Muranda,Customer Acquisition,0
+9,Desmond Muranda,Customer Loyalty,0
+10,Desmond Muranda,Customer Satisfaction,0
+11,Desmond Muranda,Design Thinking,0
+12,Desmond Muranda,Team Building,0
+13,Desmond Muranda,Team Management,0
+14,Desmond Muranda,Public Speaking,0
+15,Desmond Muranda,Team Leadership,0
+16,Desmond Muranda,Creativity Skills,0
+17,Desmond Muranda,Critical Thinking,0
+18,Desmond Muranda,Business Innovation,0
+19,Desmond Muranda,Independent Thinking,0
+20,Desmond Muranda,Organizational Commitment,0
+21,Desmond Muranda,Strategic entrepreneur,0
+22,Frank Albanese,Leadership,13
+23,Frank Albanese,Web Development,10
+24,Frank Albanese,SQL,8
+25,Frank Albanese,Web Design,7
+26,Frank Albanese,Teamwork,7
+27,Frank Albanese,Guitar,6
+28,Frank Albanese,Microsoft Excel,6
+29,Frank Albanese,Customer Service,6
+30,Frank Albanese,CSS,5
+31,Frank Albanese,JavaScript,5
+32,Frank Albanese,PHP,4
+33,Frank Albanese,Time Management,4
+34,Frank Albanese,Public Speaking,4
+35,Frank Albanese,MySQL,3
+36,Frank Albanese,Python,3
+37,Frank Albanese,VBA,3
+38,Frank Albanese,Event Planning,2
+39,Frank Albanese,jQuery,2
+40,Federico Moscato,International Trade,3
+41,Federico Moscato,International Logistics,3
+42,Federico Moscato,Microsoft Office,3
+43,Federico Moscato,Microsoft Excel,1
+44,Federico Moscato,English,1
+45,Federico Moscato,Microsoft Word,0
+46,Federico Moscato,Public Speaking,0
+47,Federico Moscato,Spanish,0
+48,Skyler Aspegren,Leadership,30
+49,Skyler Aspegren,Teamwork,22
+50,Skyler Aspegren,Strategic Planning,14
+51,Skyler Aspegren,Microsoft Office,11
+52,Skyler Aspegren,Management,11
+53,Skyler Aspegren,PowerPoint,10
+54,Skyler Aspegren,Microsoft Excel,9
+55,Skyler Aspegren,Project Management,8
+56,Skyler Aspegren,Microsoft Word,6
+57,Skyler Aspegren,Problem Solving,6
+58,Skyler Aspegren,Communication,5
+59,Skyler Aspegren,Financial Analysis,4
+60,Skyler Aspegren,Web Design,4
+61,Skyler Aspegren,Customer Service,4
+62,Skyler Aspegren,Data Analysis,2
+63,Skyler Aspegren,Teaching,2
+64,Skyler Aspegren,New Venture Development,2
+65,Skyler Aspegren,Writing,1
+66,Skyler Aspegren,Event Planning,1
+67,Skyler Aspegren,Research,1
+68,Skyler Aspegren,Finance,1
+69,Skyler Aspegren,Financial Reporting,1
+70,Skyler Aspegren,Adobe Creative Suite,1
+71,Skyler Aspegren,Organizational Effectiveness,1
+72,Skyler Aspegren,Analytical Reasoning,1
+73,Skyler Aspegren,Financial Variance Analysis,1
+74,Skyler Aspegren,Corporate Finance,0
+75,Skyler Aspegren,Data Visualization,0
+76,Skyler Aspegren,Entrepreneurship,0
+77,Skyler Aspegren,Public Speaking,0
+78,Skyler Aspegren,Spanish,0
+79,Skyler Aspegren,Data Analytics,0
+80,Skyler Aspegren,Ramp,0
+81,Eesha Sharma,Data Analysis,3
+82,Eesha Sharma,Biochemistry,2
+83,Eesha Sharma,Synthetic Biology,2
+84,Eesha Sharma,Functional Genomics,2
+85,Eesha Sharma,"Python (Programming Language)
+          
+
+
+          Python (Programming Language)",1
+86,Grant La Count,Leadership,20
+87,Grant La Count,Financial Analysis,18
+88,Grant La Count,Microsoft Office,15
+89,Grant La Count,Analysis,10
+90,Grant La Count,Microsoft Excel,9
+91,Grant La Count,Finance,8
+92,Grant La Count,PowerPoint,7
+93,Grant La Count,Time Management,7
+94,Grant La Count,Customer Service,6
+95,Grant La Count,Data Analysis,5
+96,Grant La Count,Microsoft Word,5
+97,Grant La Count,Teamwork,5
+98,Grant La Count,Public Speaking,5
+99,Grant La Count,Social Networking,5
+100,Grant La Count,Research,4
+101,Grant La Count,Risk Management,2
+102,Grant La Count,Access,2
+103,Quốc Anh Lê,iOS Development,1
+104,Quốc Anh Lê,Reactive Programming,0
+105,Quốc Anh Lê,Mobile Architecture,0
+106,Quốc Anh Lê,RESTful WebServices,0
+107,Quốc Anh Lê,Realm Database,0
+108,Quốc Anh Lê,Github,0
+109,Quốc Anh Lê,Xcode,0
+110,Quốc Anh Lê,"Representational State Transfer (REST)
+        
+
+          Representational State Transfer (REST)",0
+111,Quốc Anh Lê,Task Management,0
+112,Quốc Anh Lê,GrapghQL,0
+113,Quốc Anh Lê,"iPhone Application Development
+        
+
+          iPhone Application Development",0
+114,Quốc Anh Lê,"Mobile Application Development
+        
+
+          Mobile Application Development",0
+115,Aditya Anand,Project Management,0
+116,Aditya Anand,Engineering,0
+117,Aditya Anand,Entrepreneurship,0
+118,Aditya Anand,Start-ups,0
+119,Aditya Anand,Product Management,0
+120,Aditya Anand,Software Design,0
+121,Aditya Anand,Data Structures,0
+122,Aditya Anand,Business Development,0
+123,Aditya Anand,Programming,0
+124,Aditya Anand,Business-to-Business (B2B),0
+125,Aditya Anand,Sales,0
+126,Aditya Anand,Strategy,0
+127,Aditya Anand,Demand Generation,0
+128,Aditya Anand,Search Engine Optimization (SEO),0
+129,Aditya Anand,Email Marketing,0
+130,Aditya Anand,Customer Relationship Management (CRM),0
+131,Aditya Anand,Android Development,0
+132,Aditya Anand,Web Development,0
+133,Aditya Anand,JavaScript,0
+134,Aditya Anand,Software as a Service (SaaS),0
+135,Aditya Anand,Enterprise Software,0
+136,Aditya Anand,Python (Programming Language),0
+137,Aditya Anand,Leadership,0
+138,Aditya Anand,Engineering Management,0
+139,Aditya Anand,Management,0
+140,Aditya Anand,Team Building,0
+141,Aditya Anand,Strategic Partnerships,0
+142,Aditya Anand,Mobile Application Development,0
+143,Aditya Anand,Open Source Development,0
+144,Erik Davis,Marketing,23
+145,Erik Davis,Marketing Strategy,20
+146,Erik Davis,Social Media Marketing,16
+147,Erik Davis,Marketing Communications,10
+148,Erik Davis,Management,9
+149,Erik Davis,Digital Marketing,6
+150,Erik Davis,Entrepreneurship,5
+151,Erik Davis,SEO,3
+152,Erik Davis,Marketing Management,3
+153,Erik Davis,Training,3
+154,Erik Davis,Sales,2
+155,Erik Davis,Market Research,2
+156,Erik Davis,Lead Generation,2
+157,Erik Davis,Online Marketing,2
+158,Erik Davis,Google Analytics,2
+159,Erik Davis,Leadership,2
+160,Erik Davis,Web Design,1
+161,Erik Davis,Email Marketing,1
+162,Erik Davis,E-commerce,1
+163,Erik Davis,WordPress,1
+164,Erik Davis,Google Adwords,1
+165,Erik Davis,Business Networking,1
+166,Erik Davis,Public Speaking,1
+167,Erik Davis,Blogging,0
+168,Erik Davis,International education,0
+169,Erik Davis,Curriculum Development,0
+170,Erik Davis,Student Recruiting,0
+171,Erik Davis,CSS,0
+172,Erik Davis,HTML 5,0
+173,Erik Davis,ESL,0
+174,Erik Davis,Retargeting,0
+175,Erik Davis,Outsourced Marketing,0
+176,Erik Davis,IELTS,0
+177,Erik Davis,Study Abroad Programs,0
+178,Erik Davis,Plant Start Up,0
+179,Erik Davis,Inbound Lead Generation,0
+180,Erik Davis,Inbound Marketing,0
+181,Venkata Vijay Ventrapragada,C,22
+182,Venkata Vijay Ventrapragada,Java,9
+183,Venkata Vijay Ventrapragada,Node.js,0
+184,Piero Linares,Corporate Finance,6
+185,Piero Linares,Capital Markets,6
+186,Piero Linares,M&A,3
+187,Piero Linares,Mercado de capitales,1
+188,Piero Linares,Business Development,0
+189,Piero Linares,Business Strategy,0
+190,Piero Linares,Investment Banking,0
+191,Piero Linares,Project Engineering,0
+192,Piero Linares,Entrepreneurship,0
+193,Piero Linares,Bloomberg,0
+194,Piero Linares,Value Investing,0
+195,Piero Linares,Startup Development,0
+196,Piero Linares,Lean Startup,0
+197,Miren Thakkar,Information Security Management,14
+198,Miren Thakkar,Microsoft Office,6
+199,Miren Thakkar,Information security audit,4
+200,Miren Thakkar,SCCM,4
+201,Miren Thakkar,Third party Risk Assessment,3
+202,Miren Thakkar,Cybersecurity,2
+203,Miren Thakkar,Microsoft SQL Server,2
+204,Miren Thakkar,Management,1
+205,Miren Thakkar,Database Applications,1
+206,Miren Thakkar,Internal Audit,0
+207,Miren Thakkar,Regulatory Compliance,0
+208,Miren Thakkar,IT Strategy,0
+209,Miren Thakkar,Project Management,0
+210,Miren Thakkar,Network Security,0
+211,Miren Thakkar,RSA Archer,0
+212,Miren Thakkar,Team Leadership,0
+213,Miren Thakkar,IT Security Assessments,0
+214,Miren Thakkar,"General Data Protection Regulation (GDPR)
+        
+
+          General Data Protection Regulation (GDPR)",0
+215,Miren Thakkar,Small Business Management,0
+216,Miren Thakkar,Incident Response,0
+217,Miren Thakkar,Data Privacy,0
+218,David Iya,Web Development,99+
+219,David Iya,Social Media,88
+220,David Iya,iOS Development,87
+221,David Iya,Startup Development,85
+222,David Iya,Photography,84
+223,David Iya,Leadership,76
+224,David Iya,Strategic Planning,61
+225,David Iya,Business Development Consultancy,59
+226,David Iya,UI/UX & Pitch Deck Design,49
+227,David Lin,qPCR,5
+228,David Lin,Microbiology,3
+229,David Lin,Molecular Biology,2
+230,Trung Tran,Administration,0
+231,Trung Tran,Start-ups,0
+232,Trung Tran,Software Industry,0
+233,Trung Tran,Computer Science,0
+234,Trung Tran,Cost Reduction,0
+235,Trung Tran,Digital Marketing,0
+236,Trung Tran,Animation,0
+237,Trung Tran,Motion Graphics,0
+238,Trung Tran,Social Media Marketing,0
+239,Trung Tran,3D Animation,0
+240,Steve Purves,Software Development,79
+241,Steve Purves,Software Engineering,65
+242,Steve Purves,Agile Methodologies,44
+243,Steve Purves,C++,41
+244,Steve Purves,Algorithms,38
+245,Steve Purves,Image Processing,37
+246,Steve Purves,Programming,27
+247,Steve Purves,Test Driven Development,26
+248,Steve Purves,Project Management,25
+249,Steve Purves,Scrum,19
+250,Steve Purves,Linux,19
+251,Steve Purves,Software Design,17
+252,Steve Purves,Integration,17
+253,Steve Purves,JavaScript,14
+254,Steve Purves,Matlab,13
+255,Steve Purves,C#,12
+256,Steve Purves,Software Project Management,11
+257,Steve Purves,Product Development,11
+258,Steve Purves,HTML,10
+259,Steve Purves,Leadership,10
+260,Steve Purves,Object Oriented Design,9
+261,Steve Purves,Signal Processing,8
+262,Steve Purves,C,8
+263,Steve Purves,Design Patterns,7
+264,Steve Purves,Seismology,6
+265,Steve Purves,R&D,5
+266,Steve Purves,.NET,5
+267,Steve Purves,Seismic,5
+268,Steve Purves,Multithreading,4
+269,Steve Purves,Research,4
+270,Steve Purves,Visual Studio,4
+271,Steve Purves,Networking,4
+272,Steve Purves,jQuery,3
+273,Steve Purves,Unix,3
+274,Steve Purves,CUDA,3
+275,Steve Purves,Intellectual Property,2
+276,Steve Purves,Agile Project Management,2
+277,Steve Purves,People Skills,2
+278,Steve Purves,Seismic Attributes,2
+279,Steve Purves,Seismic Imaging,2
+280,Steve Purves,Patents,1
+281,Steve Purves,Business Analysis,1
+282,Steve Purves,Agile Testing,1
+283,Steve Purves,Node.js,1
+284,Steve Purves,C/C++ STL,1
+285,Steve Purves,Lean Startup,1
+286,Steve Purves,BDD,1
+287,Steve Purves,Open Source Licensing,1
+288,Steve Purves,GPGPU,1
+289,Steve Purves,Legacy Code,0
+290,Nick Chai,Marketing Strategy,7
+291,Nick Chai,Strategic Planning,7
+292,Nick Chai,Sales Management,5
+293,Nick Chai,New Business Development,3
+294,Nick Chai,Sales,1
+295,Nick Chai,Customer Service,1
+296,Nick Chai,Management,1
+297,Nick Chai,Marketing Communications,1
+298,Nick Chai,Social Media,0
+299,Nick Chai,Leadership,0
+300,Pritesh Kumar,Natural Language Processing (NLP),4
+301,Pritesh Kumar,Apache Kafka,4
+302,Pritesh Kumar,Keras,4
+303,Pritesh Kumar,Data Warehousing,1
+304,Pritesh Kumar,Deep Learning,1
+305,Pritesh Kumar,Management,1
+306,Pritesh Kumar,Data Engineering,1
+307,Ignacio Loyola,English,0
+308,Ignacio Loyola,Engineering,0
+309,Ignacio Loyola,Data Science,0
+310,Ignacio Loyola,Strategy,0
+311,Ignacio Loyola,Data Visualization,0
+312,Ignacio Loyola,Software Development,0
+313,Ignacio Loyola,Software Project Management,0
+314,Ignacio Loyola,Marketing,0
+315,Ignacio Loyola,Information Technology,0
+316,Ignacio Loyola,Data Mining,0
+317,Ignacio Loyola,JavaScript,0
+318,Ignacio Loyola,Next.js,0
+319,Ignacio Loyola,SQL,0
+320,Ignacio Loyola,Microsoft SQL Server,0
+321,Ignacio Loyola,React,0
+322,Ignacio Loyola,"Python (Programming Language)
+        
+
+          Python (Programming Language)",0
+323,Ignacio Loyola,Flask,0
+324,Ignacio Loyola,React.js,0
+325,Ignacio Loyola,React Native,0
+326,Ignacio Loyola,Ruby,0
+327,Ignacio Loyola,Ruby on Rails,0
+328,Ignacio Loyola,Spanish,0
+329,Ignacio Loyola,TypeScript,0
+330,Ignacio Loyola,Data Analytics,0
+331,Andrés Kemeny,Python (Programming Language),4
+332,Andrés Kemeny,JavaScript,4
+333,Andrés Kemeny,Django,2
+334,Andrés Kemeny,Version Control,0
+335,Andrés Kemeny,React.js,0
+336,Andrés Kemeny,Web Scraping,0
+337,Andrés Kemeny,Web Crawling,0
+338,Menno Gravemaker,Entrepreneurship,18
+339,Menno Gravemaker,Team Motivation,11
+340,Menno Gravemaker,Electrical Engineering,11
+341,Menno Gravemaker,Strategic Thinking,10
+342,Menno Gravemaker,Ideation,7
+343,Menno Gravemaker,Market Research,6
+344,Menno Gravemaker,Fundraising,6
+345,Menno Gravemaker,Coaching,2
+346,Menno Gravemaker,Leadership,2
+347,Menno Gravemaker,Innovation Development,2
+348,Menno Gravemaker,Software Project Management,1
+349,Menno Gravemaker,Lean,1
+350,Menno Gravemaker,Lean manufacturing,0
+351,Menno Gravemaker,Design for manufacturability,0
+352,Menno Gravemaker,Scrum,0
+353,Menno Gravemaker,Production flow,0
+354,Menno Gravemaker,Product Owner,0
+355,Carolina Andrea Gutierrez B.,Servicio de atención al cliente,0
+356,Carolina Andrea Gutierrez B.,Inglés,0
+357,Carolina Andrea Gutierrez B.,Microsoft Excel,0
+358,Carolina Andrea Gutierrez B.,Microsoft Word,0
+359,Carolina Andrea Gutierrez B.,Adobe Photoshop,0
+360,Carolina Andrea Gutierrez B.,Investigación y desarrollo,0
+361,Carolina Andrea Gutierrez B.,Planificación estratégica,0
+362,Carolina Andrea Gutierrez B.,Oratoria,0
+363,Carolina Andrea Gutierrez B.,Liderazgo,0
+364,Carolina Andrea Gutierrez B.,Negociación,0
+365,Carlos Tejeda,Telecommunications,1
+366,Carlos Tejeda,Customer Service,1
+367,Carlos Tejeda,Project Management,1
+368,Carlos Tejeda,Team Leadership,1
+369,Carlos Tejeda,Wireless,0
+370,Carlos Tejeda,Sales Management,0
+371,Carlos Tejeda,Strategic Planning,0
+372,Carlos Tejeda,Product Management,0
+373,Carlos Tejeda,New Business Development,0
+374,Carlos Tejeda,Account Management,0
+375,Kiem Duong (Kevin),Entrepreneurship,3
+376,Kiem Duong (Kevin),Agile Project Management,2
+377,Kiem Duong (Kevin),Software Development,1
+378,Kiem Duong (Kevin),Mobile Applications,0
+379,Kiem Duong (Kevin),Web Applications,0
+380,Kiem Duong (Kevin),Game Development,0
+381,Kiem Duong (Kevin),Engineering,0
+382,Kiem Duong (Kevin),Marketing,0
+383,Kiem Duong (Kevin),Project Management,0
+384,Kiem Duong (Kevin),Scrum,0
+385,Kiem Duong (Kevin),Agile Methodologies,0
+386,Kiem Duong (Kevin),Leadership Communications,0
+387,Kiem Duong (Kevin),Big Data,0
+388,Kiem Duong (Kevin),Marketing Strategy,0
+389,Kiem Duong (Kevin),Product Marketing,0
+390,Kiem Duong (Kevin),Product Innovation,0
+391,Kiem Duong (Kevin),Product Management,0
+392,Kiem Duong (Kevin),Cloud Computing,0
+393,Kiem Duong (Kevin),Professional Development,0
+394,Kiem Duong (Kevin),Strategic Planning,0
+395,Kiem Duong (Kevin),Digital Strategy,0
+396,Kiem Duong (Kevin),Process Automation,0
+397,Kiem Duong (Kevin),Continuous Delivery,0
+398,Kiem Duong (Kevin),Business Planning,0
+399,Kiem Duong (Kevin),SQL,0
+400,Kiem Duong (Kevin),Blockchain,0
+401,Kiem Duong (Kevin),NoSQL,0
+402,Kiem Duong (Kevin),Databases,0
+403,Kiem Duong (Kevin),Amazon Web Services (AWS),0
+404,Kiem Duong (Kevin),Enterprise Software,0
+405,Kiem Duong (Kevin),Google Cloud Platform (GCP),0
+406,Kiem Duong (Kevin),Leadership,0
+407,Kiem Duong (Kevin),Management,0
+408,Kiem Duong (Kevin),Critical Thinking,0
+409,Kiem Duong (Kevin),Decision-Making,0
+410,Kiem Duong (Kevin),Presentation Skills,0
+411,Kiem Duong (Kevin),People Development,0
+412,Kiem Duong (Kevin),Team Management,0
+413,Kiem Duong (Kevin),Cryptocurrency,0
+414,Kiem Duong (Kevin),Internet of Things (IoT),0
+415,Kiem Duong (Kevin),Lean Startup,0
+416,Kiem Duong (Kevin),Product Strategy,0
+417,Kiem Duong (Kevin),Domain-Driven Design (DDD),0
+418,Kiem Duong (Kevin),Amazon EC2,0
+419,Kiem Duong (Kevin),Enterprise IT Infrastructure,0
+420,Kiem Duong (Kevin),Technological Innovation,0
+421,Kiem Duong (Kevin),Executive Leadership,0
+422,Kiem Duong (Kevin),Diversity & Inclusion,0
+423,Kiem Duong (Kevin),Microservices,0
+424,Kiem Duong (Kevin),Kubernetes,0
+425,Trung Le Xuan,Business Process Improvement,1
+426,Trung Le Xuan,Finance,1
+427,Trung Le Xuan,Auditing,1
+428,Trung Le Xuan,Accounting,1
+429,Trung Le Xuan,Financial Analysis,1
+430,Trung Le Xuan,Financial Reporting,1
+431,Trung Le Xuan,Business Analysis,0
+432,Trung Le Xuan,Business Strategy,0
+433,Trung Le Xuan,Financial Accounting,0
+434,Trung Le Xuan,Telecommunications,0
+435,Trung Le Xuan,Business Process,0
+436,Trung Le Xuan,Digital Marketing,0
+437,Trung Le Xuan,Microsoft Excel,0
+438,Trung Le Xuan,Microsoft Office,0
+439,Trung Le Xuan,"Visual Basic for Applications (VBA)
+        
+
+          Visual Basic for Applications (VBA)",0
+440,Trung Le Xuan,Microsoft Power BI,0
+441,Trung Le Xuan,Microsoft SQL Server,0
+442,Trung Le Xuan,Management,0
+443,Trung Le Xuan,Team Leadership,0
+444,Trung Le Xuan,Process Improvement,0
+445,Vaibhav Saxena,Architectural Design,13
+446,Vaibhav Saxena,Adobe Photoshop,11
+447,Vaibhav Saxena,AutoCAD Architecture,8
+448,Vaibhav Saxena,Rhinoceros,6
+449,Vaibhav Saxena,Grasshopper,6
+450,Vaibhav Saxena,Model Making,5
+451,Vaibhav Saxena,Microsoft Office,5
+452,Vaibhav Saxena,Photoshop,5
+453,Vaibhav Saxena,AutoCAD,4
+454,Vaibhav Saxena,Research,3
+455,Vaibhav Saxena,Sustainable Design,3
+456,Vaibhav Saxena,Design Research,2
+457,Vaibhav Saxena,Design Thinking,2
+458,Vaibhav Saxena,Concept Design,2
+459,Vaibhav Saxena,Strategic Planning,1
+460,Vaibhav Saxena,Concept Art,1
+461,Vaibhav Saxena,"Printed Circuit Board (PCB) Design
+          
+
+
+          Printed Circuit Board (PCB) Design",1
+462,Vaibhav Saxena,Machine Learning,1
+463,Vaibhav Saxena,Microsoft PowerPoint,1
+464,Vaibhav Saxena,Adobe Illustrator,1
+465,Vaibhav Saxena,AVR,1
+466,Vaibhav Saxena,Urban Design,0
+467,Vaibhav Saxena,Architecture,0
+468,Vaibhav Saxena,Data Science,0
+469,Vaibhav Saxena,"Python (Programming Language)
+        
+
+          Python (Programming Language)",0
+470,Vaibhav Saxena,Arduino IDE,0
+471,Vaibhav Saxena,Adobe InDesign,0
+472,Vaibhav Saxena,Ecotect,0
+473,Vaibhav Saxena,Eagle PCB,0
+474,Pieter Yoshua,Communication,5
+475,Pieter Yoshua,Entrepreneurship,4
+476,Pieter Yoshua,Networking,3
+477,Pieter Yoshua,Sales & Marketing,2
+478,Pieter Yoshua,Teamwork,1
+479,Pieter Yoshua,Business Ethics,1
+480,Pieter Yoshua,Trading,0
+481,Pieter Yoshua,Client Relations,0
+482,Pieter Yoshua,Strategic Thinking,0
+483,Pieter Yoshua,Ethics,0
+484,Pieter Yoshua,Cryptocurrency,0
+485,Pieter Yoshua,Lean Startup,0
+486,Pieter Yoshua,Code of Conduct,0
+487,Pieter Yoshua,Start-up Ventures,0
+488,Freddy Fernandez,Financial Analysis,14
+489,Freddy Fernandez,Microsoft Excel,10
+490,Freddy Fernandez,Financial Modeling,6
+491,Freddy Fernandez,Equities,3
+492,Freddy Fernandez,Bloomberg,2
+493,Freddy Fernandez,Investor Relations,1
+494,Freddy Fernandez,"•	Exceptional analytical/quantitative skills
+          
+
+
+          •	Exceptional analytical/quantitative skills",1
+495,Freddy Fernandez,proficient with MS Office.,1
+496,Freddy Fernandez,"strong communication skills in Spanish, English and French
+        
+
+          strong communication skills in Spanish, English and French",0
+497,Pedro Pregueiro,MySQL,20
+498,Pedro Pregueiro,Java,20
+499,Pedro Pregueiro,Perl,13
+500,Pedro Pregueiro,Web Applications,11
+501,Pedro Pregueiro,HTML,6
+502,Pedro Pregueiro,Python,5
+503,Pedro Pregueiro,Scripting,5
+504,Pedro Pregueiro,Ruby on Rails,4
+505,Pedro Pregueiro,Ruby,4
+506,Pedro Pregueiro,Git,4
+507,Pedro Pregueiro,JavaScript,4
+508,Pedro Pregueiro,Regular Expressions,3
+509,Pedro Pregueiro,Open Source,3
+510,Pedro Pregueiro,Bash,2
+511,Pedro Pregueiro,PostgreSQL,2
+512,Pedro Pregueiro,MongoDB,2
+513,Pedro Pregueiro,Haskell,2
+514,Pedro Pregueiro,Solr,2
+515,Pedro Pregueiro,Web Services,1
+516,Loi Doan,Android Development,0
+517,Loi Doan,Android,0
+518,Loi Doan,PHP,0
+519,Loi Doan,Android SDK,0
+520,Loi Doan,React Native,0
+521,Krishna Kiran Kasturi,Objective-C,36
+522,Krishna Kiran Kasturi,C++,34
+523,Krishna Kiran Kasturi,Algorithms,32
+524,Krishna Kiran Kasturi,Data Structures,26
+525,Krishna Kiran Kasturi,Mobile Applications,26
+526,Krishna Kiran Kasturi,Design Patterns,23
+527,Krishna Kiran Kasturi,Software Development,21
+528,Krishna Kiran Kasturi,Linux,15
+529,Krishna Kiran Kasturi,Android,14
+530,Krishna Kiran Kasturi,Eclipse,14
+531,Krishna Kiran Kasturi,Core Java,12
+532,Krishna Kiran Kasturi,Web Applications,11
+533,Krishna Kiran Kasturi,iOS Development,9
+534,Krishna Kiran Kasturi,C,9
+535,Krishna Kiran Kasturi,iOS development,8
+536,Krishna Kiran Kasturi,OOAD,7
+537,Krishna Kiran Kasturi,Problem Solving,6
+538,Krishna Kiran Kasturi,ANSI C,6
+539,Krishna Kiran Kasturi,Agile Methodologies,5
+540,Krishna Kiran Kasturi,Cocoa Touch,5
+541,Krishna Kiran Kasturi,Software Design,4
+542,Krishna Kiran Kasturi,iPhone development,3
+543,Krishna Kiran Kasturi,Product Management,2
+544,Krishna Kiran Kasturi,Leadership,2
+545,Krishna Kiran Kasturi,Business Strategy,2
+546,Krishna Kiran Kasturi,Sales Management,0
+547,Krishna Kiran Kasturi,Marketing Strategy,0
+548,Krishna Kiran Kasturi,Data Science,0
+549,Krishna Kiran Kasturi,Artificial Intelligence (AI),0
+550,Krishna Kiran Kasturi,Machine Learning,0
+551,Krishna Kiran Kasturi,People Management,0
+552,Krishna Kiran Kasturi,Fundraising,0
+553,Krishna Kiran Kasturi,Team Building,0
+554,Fahad Kamraan,Python,21
+555,Fahad Kamraan,C,18
+556,Fahad Kamraan,Java,17
+557,Fahad Kamraan,Programming,13
+558,Fahad Kamraan,HTML,10
+559,Fahad Kamraan,Internet of Things,10
+560,Fahad Kamraan,Cascading Style Sheets (CSS),9
+561,Fahad Kamraan,Mac,9
+562,Fahad Kamraan,Professional Cricket,9
+563,Fahad Kamraan,Artificial Intelligence,6
+564,Fahad Kamraan,Leadership,6
+565,Fahad Kamraan,Machine Learning,5
+566,Fahad Kamraan,Research,5
+567,Fahad Kamraan,iOS,5
+568,Fahad Kamraan,Public Speaking,5
+569,Fahad Kamraan,Raspberry Pi,4
+570,Fahad Kamraan,Internet of Things (IoT),3
+571,Fahad Kamraan,Microsoft Excel,1
+572,Fahad Kamraan,JavaScript,1
+573,Fahad Kamraan,React.js,1
+574,Fahad Kamraan,redux,1
+575,Fahad Kamraan,Node.js,1
+576,Fahad Kamraan,Flask,1
+577,Fahad Kamraan,PostgreSQL,1
+578,Fahad Kamraan,"Python (Programming Language)
+          
+
+
+          Python (Programming Language)",1
+579,Fahad Kamraan,Express.js,1
+580,Fahad Kamraan,Project Management,0
+581,Luis Alonso Ubillas,Equity Research,9
+582,Luis Alonso Ubillas,Financial Modeling,7
+583,Luis Alonso Ubillas,Private Equity,6
+584,Luis Alonso Ubillas,Strategic Planning,4
+585,Luis Alonso Ubillas,Business Strategy,3
+586,Luis Alonso Ubillas,Financial Analysis,2
+587,Luis Alonso Ubillas,Equity Valuation,2
+588,Luis Alonso Ubillas,Start-ups,1
+589,Luis Alonso Ubillas,Accounting,0
+590,Luis Alonso Ubillas,Data Analysis,0
+591,Luis Alonso Ubillas,Product Development,0
+592,Luis Alonso Ubillas,Microsoft Excel,0
+593,Luis Alonso Ubillas,SQL,0
+594,Luis Alonso Ubillas,Tableau,0
+595,Luis Alonso Ubillas,Growth,0
+596,Tomás Lázaro González,Planificación estratégica,1
+597,Tomás Lázaro González,Marketing,1
+598,Tomás Lázaro González,Contabilidad de gestión,1
+599,Tomás Lázaro González,Marketing de redes sociales,0
+600,Tomás Lázaro González,Marketing digital,0
+601,Tomás Lázaro González,Trabajo en equipo,0
+602,Tomás Lázaro González,Liderazgo de equipos,0
+603,Tomás Lázaro González,Inglés,0
+604,Tomás Lázaro González,Para empresas (B2B),0
+605,Tomás Lázaro González,Gestión,0
+606,"Chris Tischner, CFA",Microsoft Excel,4
+607,"Chris Tischner, CFA",Research,2
+608,"Chris Tischner, CFA",Fixed Income,2
+609,"Chris Tischner, CFA",Alternative Investments,1
+610,"Chris Tischner, CFA",Data Analysis,1
+611,"Chris Tischner, CFA",Financial Modeling,1
+612,"Chris Tischner, CFA",Statistics,1
+613,"Chris Tischner, CFA",Economics,1
+614,"Chris Tischner, CFA",Equities,1
+615,"Chris Tischner, CFA",Portfolio Management,1
+616,"Chris Tischner, CFA",Accounting,0
+617,"Chris Tischner, CFA",R,0

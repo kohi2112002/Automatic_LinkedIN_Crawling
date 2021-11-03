@@ -91,4 +91,3 @@ def extract_personal_interests(info_dict_lst):
         info['name'].append(name)
         info['interests'].append(' '.join(interest_lst))
     return info
-
