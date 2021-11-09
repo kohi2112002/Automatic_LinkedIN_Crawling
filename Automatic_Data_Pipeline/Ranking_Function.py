@@ -24,10 +24,10 @@ def Ranking_by_Wetight_Rating(_skills_dict_, minimum_vote = 2):
 
 
 # testing 
-ex_name = 'khoi-do-3a2a1820a'
+ex_name = 'mikahdang'
 import Crawling, DataExtract
 my_info = Crawling.get_one_info(ex_name)
-print(Ranking_by_MEAN(DataExtract.extract_personal_skill([my_info])))
+print(Ranking_by_Wetight_Rating(DataExtract.extract_personal_skill([my_info])))
 
 
 
